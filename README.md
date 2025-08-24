@@ -7,11 +7,18 @@ Users will likely be stopped by Windows SmartScreen on launch. To get around thi
 
 Here are some example screenshots below:
 
+
 Dark Mode Interface:
 ![Dark Mode Window](assets/example001.png)
+
+
+
 
 Light Mode Interface:
 ![Light Mode Window](assets/example002.png)
 
+
+
+
 Tray Icon:
-!(Tray Icon](assets/example003.png)
+![Tray Icon](assets/example003.png)
