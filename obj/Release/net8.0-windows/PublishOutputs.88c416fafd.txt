@@ -1,0 +1,12 @@
+C:\Users\KYLEPC\Desktop\PUBLISH\MicrohponeLock.exe
+C:\Users\KYLEPC\Desktop\PUBLISH\MicrohponeLock.dll
+C:\Users\KYLEPC\Desktop\PUBLISH\MicrohponeLock.deps.json
+C:\Users\KYLEPC\Desktop\PUBLISH\MicrohponeLock.runtimeconfig.json
+C:\Users\KYLEPC\Desktop\PUBLISH\MicrohponeLock.pdb
+C:\Users\KYLEPC\Desktop\PUBLISH\NAudio.dll
+C:\Users\KYLEPC\Desktop\PUBLISH\NAudio.Asio.dll
+C:\Users\KYLEPC\Desktop\PUBLISH\NAudio.Core.dll
+C:\Users\KYLEPC\Desktop\PUBLISH\NAudio.Midi.dll
+C:\Users\KYLEPC\Desktop\PUBLISH\NAudio.Wasapi.dll
+C:\Users\KYLEPC\Desktop\PUBLISH\NAudio.WinForms.dll
+C:\Users\KYLEPC\Desktop\PUBLISH\NAudio.WinMM.dll

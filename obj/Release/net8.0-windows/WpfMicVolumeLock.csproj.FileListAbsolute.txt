@@ -1,0 +1,21 @@
+C:\Users\KYLEPC\Documents\MicLockEXE\Release\net8.0-windows\MicrohponeLock.exe
+C:\Users\KYLEPC\Documents\MicLockEXE\Release\net8.0-windows\MicrohponeLock.deps.json
+C:\Users\KYLEPC\Documents\MicLockEXE\Release\net8.0-windows\MicrohponeLock.runtimeconfig.json
+C:\Users\KYLEPC\Documents\MicLockEXE\Release\net8.0-windows\MicrohponeLock.dll
+C:\Users\KYLEPC\Documents\MicLockEXE\Release\net8.0-windows\MicrohponeLock.pdb
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\WpfMicVolumeLock.csproj.AssemblyReference.cache
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\App.g.cs
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\MicrohponeLock_MarkupCompile.cache
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\MicrohponeLock.g.resources
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\WpfMicVolumeLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\WpfMicVolumeLock.AssemblyInfoInputs.cache
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\WpfMicVolumeLock.AssemblyInfo.cs
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\WpfMicVolumeLock.csproj.CoreCompileInputs.cache
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\WpfMicVo.932AF157.Up2Date
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\MicrohponeLock.dll
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\refint\MicrohponeLock.dll
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\MicrohponeLock.pdb
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\WpfMicVolumeLock.genruntimeconfig.cache
+C:\Users\KYLEPC\Documents\Visual Studio Projects\WpfMicVolumeLock\WpfMicVolumeLock\obj\Release\net8.0-windows\ref\MicrohponeLock.dll

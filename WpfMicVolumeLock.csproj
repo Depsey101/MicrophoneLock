@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+		<UseWindowsForms>true</UseWindowsForms>
+		<BaseOutputPath>C:\Users\KYLEPC\Documents\MicLockEXE</BaseOutputPath>
+		<ApplicationIcon>mainicon.ico</ApplicationIcon>
+		<AssemblyName>MicrophoneLock</AssemblyName>
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="favicon.ico" />
+	  <None Remove="mainicon.ico" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Resource Include="favicon.ico">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	  <Resource Include="mainicon.ico">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Resource>
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="NAudio" Version="2.2.1" />
+	</ItemGroup>
+</Project>
