@@ -4,3 +4,14 @@ This is a simple, self contained, Windows 11 targeted .exe that allows Users to 
 Consider verifying with the included hash using the following in PowerShell: Get-FileHash "\path\to\MicrophoneLock.exe" -Algorithm SHA256
 
 Users will likely be stopped by Windows SmartScreen on launch. To get around this, select "More information" when the warning appears and then click "Run anyway"
+
+Here are some example screenshots below:
+
+Dark Mode Interface:
+![Dark Mode Window](assets/example001.png)
+
+Light Mode Interface:
+![Light Mode Window](assets/example002.png)
+
+Tray Icon:
+!(Tray Icon](assets/example003.png)
