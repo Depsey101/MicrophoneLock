@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicrophoneLock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31d219aec5fa3be80f053cb5cc46d066aaddc63d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicrophoneLock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicrophoneLock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
