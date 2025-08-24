@@ -1,2 +1,0 @@
-C:\Users\KYLEPC\Documents\MicLockEXE\Release\net8.0-windows\win-x64\publish\MicrophoneLock.pdb
-C:\Users\KYLEPC\Documents\MicLockEXE\Release\net8.0-windows\win-x64\publish\MicrophoneLock.exe

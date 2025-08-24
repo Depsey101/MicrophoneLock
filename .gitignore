@@ -21,6 +21,7 @@ publish/
 *.publishsettings
 *.pubxml
 *.publishproj
+Properties/PublishProfiles
 
 # Signed certificate
 *.pfx
