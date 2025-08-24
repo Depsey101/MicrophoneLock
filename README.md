@@ -9,13 +9,13 @@ Here are some example screenshots below:
 
 
 Dark Mode Interface:
-![Dark Mode Window](assets/example001.png)
+![Dark Mode Window](assets/example001.png)<br><br>
 
 
 
 
 Light Mode Interface:
-![Light Mode Window](assets/example002.png)
+![Light Mode Window](assets/example002.png)<br><br>
 
 
 
