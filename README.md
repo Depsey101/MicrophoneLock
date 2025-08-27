@@ -5,6 +5,8 @@ Consider verifying with the included hash using the following in PowerShell: Get
 
 Users will likely be stopped by Windows SmartScreen on launch. To get around this, select "More information" when the warning appears and then click "Run anyway"
 
+A few tech things about this app: I built this targeting Any CPU and .NET 8.0. I bundled it as a standalone .exe, so you do not need to "install" it and all its dependencies are included. The app does NOT need Administrator priveleges to run, and I am leveraging NAudio for the locking functionality (check the source code out for yourself). I have found success in my own limited testing, but please feel free to report issues or fork and improve. I am not a developer.
+
 Here are some example screenshots below:
 
 
